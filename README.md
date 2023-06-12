@@ -10,16 +10,16 @@ Tech stack: React, Javascript, SCSS, FireBase
 
 ### set up Firebase Config file
 
-set up firebase configuration in file src/utils/firebase/firebase.utils.jsx and upadte the following fields
+set up firebase configuration in file src/utils/firebase/firebase.utils.jsx and upadte the following fields \
 ` 
-const firebaseConfig = { 
-    apiKey: "",
-    authDomain: "",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: "",
-    appId: ""
-  };
+const firebaseConfig = {  \
+    apiKey: "", \ 
+    authDomain: "", \
+    projectId: "", \
+    storageBucket: "", \
+    messagingSenderId: "", \
+    appId: "" \
+  }; \
 `
 
 
